@@ -46,7 +46,7 @@ Here's how to get started working on `pg_idkit` locally.
 To work on `pg_idkit`, you'll need the following:
 
 - [Rust][rust] toolchain ([`rustup`][rustup])
-- [`pgx`][pgx] and it's toolchain (the rust subcommand)
+- [`pgx`][pgx] and its toolchain (the rust subcommand)
 - (optional) [Docker][docker]
 - (optional) [`cargo-watch`][cargo-watch]
 
